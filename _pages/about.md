@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a postdoctoral fellow at Shandong University. I received my Ph.D. degree from Shandong University, advised by [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and [Jianliang Wu](https://allenjlw.github.io/). Before my Ph.D. study, I got my Bachelor’s degree from Shandong University. 
+I am a postdoctoral fellow at Shandong University. I received my Ph.D. degree from Shandong University, advised by [Shanqing Guo](https://sduiseclab.github.io/) and [Jianliang Wu](https://allenjlw.github.io/). Before my Ph.D. study, I got my Bachelor’s degree from Shandong University. 
 My research centers on System Security (especially on protocol) at both the design and implementation levels, by combining reverse engineering and formal analysis to improve the security and privacy of real-world network services. 
 
 Publications
