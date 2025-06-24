@@ -54,7 +54,7 @@ Vulnerabilities and Acknowledgments
   - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
 - **CVE (9)**
   - **2025 (2)**: CVE-2025-20899, CVE-2025-2818
-  - **2024 (2)**: [CVE-2024-45347(CRITICAL, 9.6)](https://www.cve.org/cverecord?id=CVE-2024-45347), CVE-2024-45361
+  - **2024 (2)**: [CVE-2024-45347(CRITICAL: 9.6)](https://www.cve.org/cverecord?id=CVE-2024-45347), CVE-2024-45361
   - **2021 (5)**: CVE-2021-22486(HIGH), CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
 - **CNVD (35)**
   - **2025 (03)**: CNVD-2025-05845, CNVD-2025-05846, CNVD-2025-11062
