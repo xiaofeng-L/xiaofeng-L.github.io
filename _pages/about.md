@@ -51,12 +51,13 @@ Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying
 Vulnerabilities and Acknowledgments
 ------
 - **Acknowledgments** (厂商致谢)
-  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659),  [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084)
+  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
 - **CVE (8)**
-  - **2025**: CVE-2025-20899
+  - **2025**: CVE-2025-20899, CVE-2025-2818
   - **2024**: [CVE-2024-45347(CRITICAL, 9.6)](https://www.cve.org/cverecord?id=CVE-2024-45347), CVE-2024-45361
   - **2021**: CVE-2021-22486(HIGH), CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
-- **CNVD (32)** 
+- **CNVD (32)**
+  - **2025**: CNVD-2025-05845, CNVD-2025-05846, CNVD-2025-11062
   - **2023**: CNVD-2023-60618, CNVD-2023-52830, CNVD-2023-52831, CNVD-2023-59491, CNVD-2023-59021
   - **2021**: CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
 - **SVE (5)**
