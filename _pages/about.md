@@ -39,8 +39,8 @@ Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying
 
 ## Projects and Competitions
 
-- [**MiSRC 2024年度 白帽新人王**](https://sec.xiaomi.com/#/notice/detail/227)
-  - 二等奖
+- [**MiSRC 2024年度获奖白帽**](https://sec.xiaomi.com/#/notice/detail/227)
+  - 白帽新人王
 - **华为杯 2022 第一届中国研究生网络安全创新大赛**
   - 二等奖
 - [**DataCon 2021 大数据安全分析竞赛**](https://www.datacon.org.cn/datacon2021)
