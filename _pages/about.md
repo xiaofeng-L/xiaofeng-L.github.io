@@ -51,7 +51,7 @@ Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying
 Vulnerabilities and Acknowledgments
 ------
 - **Acknowledgments** (厂商致谢)
-  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
+  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Xiaomi2](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=548) [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
 - **CVE (9)**
   - **2025 (2)**: CVE-2025-20899, CVE-2025-2818
   - **2024 (2)**: [CVE-2024-45347(CRITICAL: 9.6)](https://www.cve.org/cverecord?id=CVE-2024-45347), CVE-2024-45361
