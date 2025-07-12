@@ -50,6 +50,9 @@ Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying
 
 Vulnerabilities and Acknowledgments
 ------
+- **累计漏洞奖金**
+  - **人民币（￥70,060）**:中兴：800元，Vivo：3,000元，Oppo：2,000元，华为：10,000元，魅族：260元，小米：54,000元
+  - **美元（$6,660）**:三星：6,660美元
 - **Acknowledgments** (厂商致谢)
   - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Xiaomi2](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=548) [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
 - **CVE (9)**
