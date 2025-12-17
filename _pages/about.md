@@ -16,7 +16,7 @@ My research centers on System Security (especially on protocol) at both the desi
 Publications
 ------
 **ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
-Xiangpu Song, Longjia Pei, Jianliang Wu*, Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu**, Qingchuan Zhao, Shanqing Guo*. In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
+Xiangpu Song, Longjia Pei, Jianliang Wu*, Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu***, Qingchuan Zhao, Shanqing Guo*. In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
 
 **Formal Analysis Framework for E2EE Protocols**<br/>
 Yu Wang, **Xiaofeng Liu***, Yu Hou, Chengyu Hu*, Shanqing Guo. In Proceedings of the ACM ASIA Conference on Computer and Communications Security (Asia CCS), 2026<br/>
