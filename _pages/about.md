@@ -16,28 +16,28 @@ My research centers on System Security (especially on protocol) at both the desi
 Publications
 ------
 **ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
-Xiangpu Song, Longjia Pei, Jianliang Wu*, Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu***, Qingchuan Zhao, Shanqing Guo*. In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
+Xiangpu Song, Longjia Pei, Jianliang Wu(✉️), Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu**(✉️), Qingchuan Zhao, Shanqing Guo(✉️). In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
 
 **Formal Analysis Framework for E2EE Protocols**<br/>
-Yu Wang, **Xiaofeng Liu***, Yu Hou, Chengyu Hu*, Shanqing Guo. In Proceedings of the ACM ASIA Conference on Computer and Communications Security (Asia CCS), 2026<br/>
+Yu Wang, **Xiaofeng Liu**(✉️), Yu Hou, Chengyu Hu(✉️), Shanqing Guo. In Proceedings of the ACM ASIA Conference on Computer and Communications Security (Asia CCS), 2026<br/>
 
 **A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
-**Xiaofeng Liu**, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu*, Qingchuan Zhao*, and Shanqing Guo*. In Proceedings of the USENIX Security Symposium (Security), 2025 [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
+**Xiaofeng Liu**, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu(✉️), Qingchuan Zhao(✉️), and Shanqing Guo(✉️). In Proceedings of the USENIX Security Symposium (Security), 2025 [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
 
 **DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**<br/>
-Pengcheng Ren, Chaoshun Zuo, **Xiaofeng Liu**, Wenrui Diao, Qingchuan Zhao*, Shanqing Guo*. In Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), 2024  <br/>
+Pengcheng Ren, Chaoshun Zuo, **Xiaofeng Liu**, Wenrui Diao, Qingchuan Zhao(✉️), Shanqing Guo(✉️). In Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), 2024  <br/>
 
 **Security Research for Android Remote Assistance Apps**<br/>
-Liwei Wang, **Xiaofeng Liu**, Ting Lei, Wenna Song, Shanqing Guo*, Pengcheng Ren. In Proceedings of the Australasian Conference on Information Security and Privacy (ACISP), 2024  <br/>
+Liwei Wang, **Xiaofeng Liu**, Ting Lei, Wenna Song, Shanqing Guo(✉️), Pengcheng Ren. In Proceedings of the Australasian Conference on Information Security and Privacy (ACISP), 2024  <br/>
 
 **Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem**<br/>
-Qinsheng Hou, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, **Xiaofeng Liu**, Yuanzhi Li, Shanqing Guo*, Meining Nie, and Haixin Duan. In Proceedings of the IEEE Transactions on Software Engineering (TSE), 2023  <br/>
+Qinsheng Hou, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, **Xiaofeng Liu**, Yuanzhi Li, Shanqing Guo(✉️), Meining Nie, and Haixin Duan. In Proceedings of the IEEE Transactions on Software Engineering (TSE), 2023  <br/>
 
 **ATTAA: Active Text Traffic Analysis Attacks on Secure Messaging Applications**<br/>
-Fengyan Lv, Cheng Liu, **Xiaofeng Liu**, Chengyu Hu, Zhihao Chen, Shanqing Guo*. In Proceedings of the IEEE International Conference on Communications (ICC), 2023  <br/>
+Fengyan Lv, Cheng Liu, **Xiaofeng Liu**, Chengyu Hu, Zhihao Chen, Shanqing Guo(✉️). In Proceedings of the IEEE International Conference on Communications (ICC), 2023  <br/>
 
 **Large-scale Security Measurements on the Android Firmware Ecosystem**<br/>
-Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying, Shanqing Guo*, Yuanzhi Li, Meining Nie, and Haixin Duan. In Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), 2022  <br/>
+Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying, Shanqing Guo(✉️), Yuanzhi Li, Meining Nie, and Haixin Duan. In Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), 2022  <br/>
 
 
 
