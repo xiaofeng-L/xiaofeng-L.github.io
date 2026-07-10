@@ -15,11 +15,17 @@ My research centers on System Security (especially on protocol) at both the desi
 
 Publications
 ------
-**ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
-Xiangpu Song, Longjia Pei, Jianliang Wu(✉️), Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu**(✉️), Qingchuan Zhao, Shanqing Guo(✉️). In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
+**"Tap" Without Tapping: A Tag Discovery Forgery Attack on Android NFC**<br/>
+Yilin Li, Jianliang Wu(✉️), Chaoshun Zuo, Qingchuan Zhao, **Xiaofeng Liu**(✉️), Xiangpu Song, Chengyu Hu, Shanqing Guo(✉️). In Proceedings of the USENIX Security Symposium (Security), 2026<br/>
+
+**SGAFuzzer: Stateful GraphQL API fuzzing**<br/>
+Jingge Sun, Xiangpu Song(✉️), **Xiaofeng Liu**, Shanqing Guo(✉️), Chengyu Hu. Software Quality Journal, 2026<br/>
 
 **Formal Analysis Framework for E2EE Protocols**<br/>
 Yu Wang, **Xiaofeng Liu**(✉️), Yu Hou, Chengyu Hu(✉️), Shanqing Guo. In Proceedings of the ACM ASIA Conference on Computer and Communications Security (Asia CCS), 2026<br/>
+
+**ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
+Xiangpu Song, Longjia Pei, Jianliang Wu(✉️), Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, **Xiaofeng Liu**(✉️), Qingchuan Zhao, Shanqing Guo(✉️). In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2026<br/>
 
 **A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
 **Xiaofeng Liu**, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu(✉️), Qingchuan Zhao(✉️), and Shanqing Guo(✉️). In Proceedings of the USENIX Security Symposium (Security), 2025 [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
@@ -55,10 +61,10 @@ Qinsheng Hou, Wenrui Diao, Yanhao Wang, **Xiaofeng Liu**, Song Liu, Lingyun Ying
 Vulnerabilities and Acknowledgments
 ------
 - **累计漏洞奖金**
-  - **人民币（￥70,060）**:中兴：800元，Vivo：3,000元，Oppo：2,000元，华为：10,000元，魅族：260元，小米：54,000元
-  - **美元（$6,660）**:三星：6,660美元
+  - **人民币（￥70,060）**:中兴：800元，Vivo：17,100元，Oppo：2,000元，华为：14,000元，魅族：260元，小米：104,000元
+  - **美元（$6,660）**:三星：6,660美元，谷歌：7,000美元
 - **Acknowledgments** (厂商致谢)
-  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Xiaomi2](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=548) [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
+  - [Apple](https://support.apple.com/en-us/121250), [Samsung](https://security.samsungmobile.com/serviceWeb.smsb), [Xiaomi1](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=558), [Xiaomi2](https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=548) [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659), [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10),[Vivo3](https://www.vivo.com/en/support/security-advisory-detail?id=22), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [Motorola](https://en-us.support.motorola.com/app/answers/detail/a_id/186727)
 - **CVE (12)**
   - **2025 (2)**: CVE-2025-20899, CVE-2025-2818
   - **2024 (2)**: [CVE-2024-45347(CRITICAL: 9.6, ¥25000)](https://www.cve.org/cverecord?id=CVE-2024-45347), CVE-2024-45361
